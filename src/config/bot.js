@@ -23,8 +23,8 @@
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#A746BA", 
-      secondary: "#470654", 
+      primary: "#9D00FF", 
+      secondary: "#", 
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287", 
@@ -59,4 +59,3 @@
       economy: "#F1C40F",
       birthday: "#E91E63",
       moderation: "#9B59B6",
-
